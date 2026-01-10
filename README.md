@@ -1,6 +1,6 @@
 # OpenBrowser Frontend
 
-A modern chat interface for OpenBrowser AI, similar to Manus AI.
+A modern chat interface for OpenBrowser AI, similar to .
 
 ## Features
 
