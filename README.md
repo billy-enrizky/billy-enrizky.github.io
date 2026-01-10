@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenBrowser Frontend
 
 A modern chat interface for OpenBrowser AI, similar to Manus AI.
@@ -180,3 +181,6 @@ The frontend connects to the OpenBrowser backend via WebSocket for real-time com
 ## License
 
 MIT
+=======
+# billy-enrizky.github.io
+>>>>>>> ea5a3a07c0dce3eb0c6fe0c9708789eaca070ef4
